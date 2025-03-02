@@ -1,0 +1,98 @@
+F:\Projects.me\Attendance Management System\Attendance Management System\bin\Debug\net9.0\appsettings.Development.json
+F:\Projects.me\Attendance Management System\Attendance Management System\bin\Debug\net9.0\appsettings.json
+F:\Projects.me\Attendance Management System\Attendance Management System\bin\Debug\net9.0\Attendance Management System.staticwebassets.runtime.json
+F:\Projects.me\Attendance Management System\Attendance Management System\bin\Debug\net9.0\Attendance Management System.staticwebassets.endpoints.json
+F:\Projects.me\Attendance Management System\Attendance Management System\bin\Debug\net9.0\Attendance Management System.exe
+F:\Projects.me\Attendance Management System\Attendance Management System\bin\Debug\net9.0\Attendance Management System.deps.json
+F:\Projects.me\Attendance Management System\Attendance Management System\bin\Debug\net9.0\Attendance Management System.runtimeconfig.json
+F:\Projects.me\Attendance Management System\Attendance Management System\bin\Debug\net9.0\Attendance Management System.dll
+F:\Projects.me\Attendance Management System\Attendance Management System\bin\Debug\net9.0\Attendance Management System.pdb
+F:\Projects.me\Attendance Management System\Attendance Management System\obj\Debug\net9.0\Attendance Management System.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projects.me\Attendance Management System\Attendance Management System\obj\Debug\net9.0\Attendance Management System.AssemblyInfoInputs.cache
+F:\Projects.me\Attendance Management System\Attendance Management System\obj\Debug\net9.0\Attendance Management System.AssemblyInfo.cs
+F:\Projects.me\Attendance Management System\Attendance Management System\obj\Debug\net9.0\Attendance Management System.csproj.CoreCompileInputs.cache
+F:\Projects.me\Attendance Management System\Attendance Management System\obj\Debug\net9.0\Attendance Management System.MvcApplicationPartsAssemblyInfo.cache
+F:\Projects.me\Attendance Management System\Attendance Management System\obj\Debug\net9.0\Attendance Management System.RazorAssemblyInfo.cache
+F:\Projects.me\Attendance Management System\Attendance Management System\obj\Debug\net9.0\Attendance Management System.RazorAssemblyInfo.cs
+F:\Projects.me\Attendance Management System\Attendance Management System\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+F:\Projects.me\Attendance Management System\Attendance Management System\obj\Debug\net9.0\scopedcss\bundle\Attendance Management System.styles.css
+F:\Projects.me\Attendance Management System\Attendance Management System\obj\Debug\net9.0\scopedcss\projectbundle\Attendance Management System.bundle.scp.css
+F:\Projects.me\Attendance Management System\Attendance Management System\obj\Debug\net9.0\compressed\msl7zspqqy-b9sayid5wm.gz
+F:\Projects.me\Attendance Management System\Attendance Management System\obj\Debug\net9.0\compressed\ed4rle6hug-61n19gt1b8.gz
+F:\Projects.me\Attendance Management System\Attendance Management System\obj\Debug\net9.0\compressed\7ipqoq9xrm-xtxxf3hu2r.gz
+F:\Projects.me\Attendance Management System\Attendance Management System\obj\Debug\net9.0\compressed\7e1p3acbi0-bqjiyaj88i.gz
+F:\Projects.me\Attendance Management System\Attendance Management System\obj\Debug\net9.0\compressed\ajfm43lbx8-c2jlpeoesf.gz
+F:\Projects.me\Attendance Management System\Attendance Management System\obj\Debug\net9.0\compressed\v9m4fg0zv7-erw9l3u2r3.gz
+F:\Projects.me\Attendance Management System\Attendance Management System\obj\Debug\net9.0\compressed\ri42vz8xvx-aexeepp0ev.gz
+F:\Projects.me\Attendance Management System\Attendance Management System\obj\Debug\net9.0\compressed\5u47lxmpm4-d7shbmvgxk.gz
+F:\Projects.me\Attendance Management System\Attendance Management System\obj\Debug\net9.0\compressed\1j1d9srohq-ausgxo2sd3.gz
+F:\Projects.me\Attendance Management System\Attendance Management System\obj\Debug\net9.0\compressed\ii8wtgupm3-k8d9w2qqmf.gz
+F:\Projects.me\Attendance Management System\Attendance Management System\obj\Debug\net9.0\compressed\qsg8etuefk-cosvhxvwiu.gz
+F:\Projects.me\Attendance Management System\Attendance Management System\obj\Debug\net9.0\compressed\jyo6fgbl8v-ub07r2b239.gz
+F:\Projects.me\Attendance Management System\Attendance Management System\obj\Debug\net9.0\compressed\emc42y6isu-fvhpjtyr6v.gz
+F:\Projects.me\Attendance Management System\Attendance Management System\obj\Debug\net9.0\compressed\ur0knb8cre-b7pk76d08c.gz
+F:\Projects.me\Attendance Management System\Attendance Management System\obj\Debug\net9.0\compressed\1d9oll9nqh-fsbi9cje9m.gz
+F:\Projects.me\Attendance Management System\Attendance Management System\obj\Debug\net9.0\compressed\tjwinn7cmz-rzd6atqjts.gz
+F:\Projects.me\Attendance Management System\Attendance Management System\obj\Debug\net9.0\compressed\8opzxc3nxj-ee0r1s7dh0.gz
+F:\Projects.me\Attendance Management System\Attendance Management System\obj\Debug\net9.0\compressed\99k0juzq2n-dxx9fxp4il.gz
+F:\Projects.me\Attendance Management System\Attendance Management System\obj\Debug\net9.0\compressed\rykiuuemrf-jd9uben2k1.gz
+F:\Projects.me\Attendance Management System\Attendance Management System\obj\Debug\net9.0\compressed\3bxem6qp0i-khv3u5hwcm.gz
+F:\Projects.me\Attendance Management System\Attendance Management System\obj\Debug\net9.0\compressed\up4779afyy-r4e9w2rdcm.gz
+F:\Projects.me\Attendance Management System\Attendance Management System\obj\Debug\net9.0\compressed\mfn2erb40d-lcd1t2u6c8.gz
+F:\Projects.me\Attendance Management System\Attendance Management System\obj\Debug\net9.0\compressed\a2sy1a7cs3-c2oey78nd0.gz
+F:\Projects.me\Attendance Management System\Attendance Management System\obj\Debug\net9.0\compressed\vlwa968xe4-tdbxkamptv.gz
+F:\Projects.me\Attendance Management System\Attendance Management System\obj\Debug\net9.0\compressed\zpifx3ofqd-j5mq2jizvt.gz
+F:\Projects.me\Attendance Management System\Attendance Management System\obj\Debug\net9.0\compressed\53puchqpbt-06098lyss8.gz
+F:\Projects.me\Attendance Management System\Attendance Management System\obj\Debug\net9.0\compressed\ste96o1am9-nvvlpmu67g.gz
+F:\Projects.me\Attendance Management System\Attendance Management System\obj\Debug\net9.0\compressed\1yhdac3yo0-s35ty4nyc5.gz
+F:\Projects.me\Attendance Management System\Attendance Management System\obj\Debug\net9.0\compressed\wwxn5wg994-pj5nd1wqec.gz
+F:\Projects.me\Attendance Management System\Attendance Management System\obj\Debug\net9.0\compressed\p2ee63mjk3-46ein0sx1k.gz
+F:\Projects.me\Attendance Management System\Attendance Management System\obj\Debug\net9.0\compressed\t8yhcfzdjb-v0zj4ognzu.gz
+F:\Projects.me\Attendance Management System\Attendance Management System\obj\Debug\net9.0\compressed\evpznhw91p-37tfw0ft22.gz
+F:\Projects.me\Attendance Management System\Attendance Management System\obj\Debug\net9.0\compressed\wayzo757r2-hrwsygsryq.gz
+F:\Projects.me\Attendance Management System\Attendance Management System\obj\Debug\net9.0\compressed\sjgvn9ufnt-pk9g2wxc8p.gz
+F:\Projects.me\Attendance Management System\Attendance Management System\obj\Debug\net9.0\compressed\qyd02ni43e-ft3s53vfgj.gz
+F:\Projects.me\Attendance Management System\Attendance Management System\obj\Debug\net9.0\compressed\zzezatqa7l-6cfz1n2cew.gz
+F:\Projects.me\Attendance Management System\Attendance Management System\obj\Debug\net9.0\compressed\tyymjl6ox2-6pdc2jztkx.gz
+F:\Projects.me\Attendance Management System\Attendance Management System\obj\Debug\net9.0\compressed\jwht3n61yg-493y06b0oq.gz
+F:\Projects.me\Attendance Management System\Attendance Management System\obj\Debug\net9.0\compressed\t43cydaqt4-iovd86k7lj.gz
+F:\Projects.me\Attendance Management System\Attendance Management System\obj\Debug\net9.0\compressed\wnqayxam76-vr1egmr9el.gz
+F:\Projects.me\Attendance Management System\Attendance Management System\obj\Debug\net9.0\compressed\ozkhbt98bt-kbrnm935zg.gz
+F:\Projects.me\Attendance Management System\Attendance Management System\obj\Debug\net9.0\compressed\0att4zt64y-jj8uyg4cgr.gz
+F:\Projects.me\Attendance Management System\Attendance Management System\obj\Debug\net9.0\compressed\125vytlp7q-y7v9cxd14o.gz
+F:\Projects.me\Attendance Management System\Attendance Management System\obj\Debug\net9.0\compressed\bs7lqzvga7-notf2xhcfb.gz
+F:\Projects.me\Attendance Management System\Attendance Management System\obj\Debug\net9.0\compressed\tm88pjgo4r-h1s4sie4z3.gz
+F:\Projects.me\Attendance Management System\Attendance Management System\obj\Debug\net9.0\compressed\y09609gqcr-63fj8s7r0e.gz
+F:\Projects.me\Attendance Management System\Attendance Management System\obj\Debug\net9.0\compressed\oysvsfkr0f-0j3bgjxly4.gz
+F:\Projects.me\Attendance Management System\Attendance Management System\obj\Debug\net9.0\compressed\ywp4i3hqyk-47otxtyo56.gz
+F:\Projects.me\Attendance Management System\Attendance Management System\obj\Debug\net9.0\compressed\a2izw33ucl-4v8eqarkd7.gz
+F:\Projects.me\Attendance Management System\Attendance Management System\obj\Debug\net9.0\compressed\kov9k81gxj-356vix0kms.gz
+F:\Projects.me\Attendance Management System\Attendance Management System\obj\Debug\net9.0\compressed\04mrclxovk-83jwlth58m.gz
+F:\Projects.me\Attendance Management System\Attendance Management System\obj\Debug\net9.0\compressed\ti35toy8s5-mrlpezrjn3.gz
+F:\Projects.me\Attendance Management System\Attendance Management System\obj\Debug\net9.0\compressed\0mnjksydv5-lzl9nlhx6b.gz
+F:\Projects.me\Attendance Management System\Attendance Management System\obj\Debug\net9.0\compressed\eqd4sgbbym-ag7o75518u.gz
+F:\Projects.me\Attendance Management System\Attendance Management System\obj\Debug\net9.0\compressed\hctdsimm4b-x0q3zqp4vz.gz
+F:\Projects.me\Attendance Management System\Attendance Management System\obj\Debug\net9.0\compressed\tq1yjeq4tp-0i3buxo5is.gz
+F:\Projects.me\Attendance Management System\Attendance Management System\obj\Debug\net9.0\compressed\q0y3wtr069-o1o13a6vjx.gz
+F:\Projects.me\Attendance Management System\Attendance Management System\obj\Debug\net9.0\compressed\tw79kjg15j-ttgo8qnofa.gz
+F:\Projects.me\Attendance Management System\Attendance Management System\obj\Debug\net9.0\compressed\u09b0ofhca-2z0ns9nrw6.gz
+F:\Projects.me\Attendance Management System\Attendance Management System\obj\Debug\net9.0\compressed\lxrb1du75d-muycvpuwrr.gz
+F:\Projects.me\Attendance Management System\Attendance Management System\obj\Debug\net9.0\compressed\n6c9ix6cl2-87fc7y1x7t.gz
+F:\Projects.me\Attendance Management System\Attendance Management System\obj\Debug\net9.0\compressed\has7pdi9yy-mlv21k5csn.gz
+F:\Projects.me\Attendance Management System\Attendance Management System\obj\Debug\net9.0\compressed\942jo9qzlx-7bwhdk4ugg.gz
+F:\Projects.me\Attendance Management System\Attendance Management System\obj\Debug\net9.0\compressed\if5nuzv2z6-7bwhdk4ugg.gz
+F:\Projects.me\Attendance Management System\Attendance Management System\obj\Debug\net9.0\staticwebassets.build.json
+F:\Projects.me\Attendance Management System\Attendance Management System\obj\Debug\net9.0\staticwebassets.development.json
+F:\Projects.me\Attendance Management System\Attendance Management System\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+F:\Projects.me\Attendance Management System\Attendance Management System\obj\Debug\net9.0\staticwebassets\msbuild.Attendance Management System.Microsoft.AspNetCore.StaticWebAssets.props
+F:\Projects.me\Attendance Management System\Attendance Management System\obj\Debug\net9.0\staticwebassets\msbuild.Attendance Management System.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+F:\Projects.me\Attendance Management System\Attendance Management System\obj\Debug\net9.0\staticwebassets\msbuild.build.Attendance Management System.props
+F:\Projects.me\Attendance Management System\Attendance Management System\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.Attendance Management System.props
+F:\Projects.me\Attendance Management System\Attendance Management System\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.Attendance Management System.props
+F:\Projects.me\Attendance Management System\Attendance Management System\obj\Debug\net9.0\staticwebassets.pack.json
+F:\Projects.me\Attendance Management System\Attendance Management System\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+F:\Projects.me\Attendance Management System\Attendance Management System\obj\Debug\net9.0\Attendance Management System.dll
+F:\Projects.me\Attendance Management System\Attendance Management System\obj\Debug\net9.0\refint\Attendance Management System.dll
+F:\Projects.me\Attendance Management System\Attendance Management System\obj\Debug\net9.0\Attendance Management System.pdb
+F:\Projects.me\Attendance Management System\Attendance Management System\obj\Debug\net9.0\Attendance Management System.genruntimeconfig.cache
+F:\Projects.me\Attendance Management System\Attendance Management System\obj\Debug\net9.0\ref\Attendance Management System.dll
